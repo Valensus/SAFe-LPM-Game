@@ -1,36 +1,32 @@
 # SAFe LPM Game — De reis van een Epic
 
-Een interactieve Nederlandstalige **SAFe Lean Portfolio Management serious game** en begeleide werksessie, vormgegeven in een Rijksoverheid-geïnspireerde stijl.
+Een onafhankelijke, Nederlandstalige **SAFe Lean Portfolio Management serious game** en interactieve werksessie met fictieve scenario's. Dit project is niet verbonden aan een werkgever, overheidsinstelling of andere organisatie.
 
-## Starten
+## Spelen
 
-Open [index.html](./index.html) lokaal in je browser om de game te spelen. De applicatie is een zelfstandig HTML-bestand; installatie of een server is niet nodig.
+Open [index.html](./index.html) lokaal in een browser. De toepassing werkt zelfstandig, zonder installatie of server.
 
-## Wat zit erin?
+In de spelmodus maken deelnemers keuzes over strategie, portfolio-prioritering, capaciteit, MVP's en gerealiseerde waarde. De metromap en kennisbank laten zien hoe de SAFe Portfolio Kanban werkt, met de fasen Funnel, Reviewing, Analyzing, Ready, Implementing en Done.
 
-- SAFe Portfolio Kanban: Funnel, Reviewing, Analyzing, Ready, Implementing en Done.
-- Portfolio-keuzes rond strategie, financiering, capaciteit, flow en risico.
-- Een oefenscenario met beslissingen rond een MVP en de opties Persevere, Pivot en Stop.
-- Portfolio Sync en Strategic Portfolio Review, rollen, overleggen en artefacten.
-- Een interactieve metromap, kennisbank, begeleide werksessie en sessie-export.
+Spelregels, budgetten, scores, rollen in simulaties en beslissituaties zijn **fictieve educatieve vereenvoudigingen**, geen officieel SAFe-besluitvormingsmodel.
 
-De game bevat **fictieve en vereenvoudigde spelsituaties**. Spelregels, scores en beslismomenten zijn geen officiële, door SAFe voorgeschreven governance.
+## Openbare informatie en privacy
 
-## Gebruik op een vergaderscherm
+- De broncode bevat algemene SAFe-concepten en fictieve, organisatieonafhankelijke voorbeeldscenario's.
+- Er zijn geen echte portfoliogegevens, bedrijfsdocumenten, accounts, contactgegevens of toegangssleutels bedoeld om mee te publiceren.
+- De toepassing slaat spel- en sessiegegevens lokaal in de browser op. Er is geen ingebouwde analytics- of backendverbinding.
+- Gegevens die een gebruiker later in een werksessie invoert, worden daardoor niet automatisch openbaar. Vermijd desondanks gevoelige gegevens in exports of gedeelde screenshots.
+- Gebruik uitsluitend informatie die voor openbare publicatie geschikt is.
 
-Open `index.html`, kies de spelmodus en doorloop de beslissingen gezamenlijk. Bespreek per stap de gevolgen voor investeringsruimte, capaciteit, afhankelijkheden en verwachte waarde.
+## Onafhankelijkheid
 
-## Data & privacy
+Dit project is **geen officiële uitgave van SAFe of van enige organisatie** en gebruikt geen institutioneel logo of organisatiespecifieke huisstijl. De inhoud is uitsluitend bedoeld voor training en educatie.
 
-De applicatie werkt client-side. Sessiedata kunnen lokaal in de browser worden opgeslagen en geëxporteerd. De repository is publiek: plaats geen interne gegevens, persoonsgegevens of vertrouwelijke portfoliodocumenten in GitHub.
+## Bronnen
 
-## Publiceren
+- [SAFe: Lean Portfolio Management](https://framework.scaledagile.com/lean-portfolio-management-discipline/)
+- [SAFe: Portfolio Backlog](https://framework.scaledagile.com/portfolio-backlog/)
 
-Voor een publieke demo kun je **GitHub Pages** activeren via de repository-instellingen (Settings → Pages) en de branch `main` met map `/ (root)` kiezen. Publicatie is niet automatisch ingeschakeld.
+## Publicatie
 
-## Framework & disclaimer
-
-- [SAFe — Lean Portfolio Management](https://framework.scaledagile.com/lean-portfolio-management-discipline/)
-- [SAFe — Portfolio Backlog](https://framework.scaledagile.com/portfolio-backlog/)
-
-Dit is een onafhankelijk educatief hulpmiddel; geen officiële publicatie van Scaled Agile, Inc. of de Rijksoverheid.
+De repository is openbaar. Voor een website kan GitHub Pages apart worden geactiveerd via Settings → Pages → Deploy from a branch → main / root.
